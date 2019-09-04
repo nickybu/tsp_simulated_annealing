@@ -1,4 +1,4 @@
-# tsp_simulated_annealing
+# Symmetric Travelling Salesman Problem using Simulated Annealing
 Code for COMP60621 Designing For Parallelism and Future Multi-core Computing assignment titled 'Symmetric Travelling Salesman Problem using Simulated Annealing.'
 
 View paper [here](https://drive.google.com/open?id=18x4r-5cMFL3lseziqZBCMLisbarDMp1X).
